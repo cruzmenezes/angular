@@ -25,3 +25,18 @@
             declarations: [MenuComponent],
         })
 
+### interporlação de dados
+
+    export class Button {
+        buttonText: string = 'acessar';
+    }
+
+### adicionar no html
+
+    <button>{{ buttonText}}</button>
+
+
+### data binding = associação de dados.
+
+
+
