@@ -1,3 +1,23 @@
+# Requisitos
+- Node e NPM (nodejs.org)
+
+- Visual studio code
+    - Angular Language service
+    - auto close tag
+    - auto rename tag
+    - tema 
+    - vscode icons
+    - editorConfig, prettier. eslint
+- angular
+    - npm install -g @angular/cli
+
+
+
+
+
+
+
+
 # criar componentes no angular
 
 ### tem que fazer a importação
